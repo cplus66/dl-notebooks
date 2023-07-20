@@ -1,4 +1,10 @@
-# Deep Learning Notebooks(dl-notebooks)
+# Deep Learning Notebooks (dl-notebooks)
 
 - hello-jupyter
 - hello-camera (OpenCV)
+
+Note,
+- Use jupyter Termial to install 'opencv-python'
+```
+pip install opencv-python
+```
