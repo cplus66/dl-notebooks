@@ -13,3 +13,6 @@ pip install opencv-python
 ```
 conda install -c r r-irkernel
 ```
+
+## Reference
+https://github.com/PacktPublishing/Jupyter-Cookbook/tree/master
